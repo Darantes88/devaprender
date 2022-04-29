@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 meu nome é diego. 
 Ola eu sou uma linha
+=======
+meu nome é Diego Arantes
+>>>>>>> dev
